@@ -1,0 +1,22 @@
+.wrapp__item {
+  width: 120px;
+  margin: 0 10px;
+  padding: 5px;
+}
+.wrapp__item > .wrapp__photo {
+  width: 110px;
+  object-fit: cover;
+}
+.wrapp__item > .wrapp__title {
+  text-align: left;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0;
+  padding-bottom: 10px;
+}
+.wrapp__item > .wrapp__text {
+  padding-top: 10px;
+  width: 15ch;
+  font-size: 12px;
+  margin: 0;
+}

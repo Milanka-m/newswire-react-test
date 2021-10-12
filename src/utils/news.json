@@ -1,0 +1,356 @@
+{
+  "news": {
+    "element": [
+      {
+        "id": "1",
+        "title": "Новость № 1",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "3.2"
+      },
+      {
+        "id": "2",
+        "title": "Новость № 2",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "2.4"
+      },
+      {
+        "id": "3",
+        "title": "Новость № 3",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "3.8"
+      },
+      {
+        "id": "4",
+        "title": "Новость № 4",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "5",
+        "title": "Новость № 5",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.4"
+      },
+      {
+        "id": "6",
+        "title": "Новость № 6",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.1"
+      },
+      {
+        "id": "7",
+        "title": "Новость № 7",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "1.7"
+      },
+      {
+        "id": "8",
+        "title": "Новость № 8",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "3.7"
+      },
+      {
+        "id": "9",
+        "title": "Новость № 9",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "3.3"
+      },
+      {
+        "id": "10",
+        "title": "Новость № 10",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "3.5"
+      },
+      {
+        "id": "11",
+        "title": "Новость № 11",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "3.1"
+      },
+      {
+        "id": "12",
+        "title": "Новость № 12",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.9"
+      },
+      {
+        "id": "13",
+        "title": "Новость № 13",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.0"
+      },
+      {
+        "id": "14",
+        "title": "Новость № 14",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "3.0"
+      },
+      {
+        "id": "15",
+        "title": "Новость № 15",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.3"
+      },
+      {
+        "id": "16",
+        "title": "Новость № 16",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "17",
+        "title": "Новость № 17",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.5"
+      },
+      {
+        "id": "18",
+        "title": "Новость № 18",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.4"
+      },
+      {
+        "id": "19",
+        "title": "Новость № 19",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "20",
+        "title": "Новость № 20",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "2.2"
+      },
+      {
+        "id": "21",
+        "title": "Новость № 21",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "2.5"
+      },
+      {
+        "id": "22",
+        "title": "Новость № 22",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "3.7"
+      },
+      {
+        "id": "23",
+        "title": "Новость № 23",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.1"
+      },
+      {
+        "id": "24",
+        "title": "Новость № 24",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "3.7"
+      },
+      {
+        "id": "25",
+        "title": "Новость № 25",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "2.5"
+      },
+      {
+        "id": "26",
+        "title": "Новость № 26",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "2.3"
+      },
+      {
+        "id": "27",
+        "title": "Новость № 27",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "2.0"
+      },
+      {
+        "id": "28",
+        "title": "Новость № 28",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "29",
+        "title": "Новость № 29",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "1.9"
+      },
+      {
+        "id": "30",
+        "title": "Новость № 30",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.2"
+      },
+      {
+        "id": "31",
+        "title": "Новость № 31",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.4"
+      },
+      {
+        "id": "32",
+        "title": "Новость № 32",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "2.5"
+      },
+      {
+        "id": "33",
+        "title": "Новость № 33",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "34",
+        "title": "Новость № 34",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "35",
+        "title": "Новость № 35",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.0"
+      },
+      {
+        "id": "36",
+        "title": "Новость № 36",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.2"
+      },
+      {
+        "id": "37",
+        "title": "Новость № 37",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.0"
+      },
+      {
+        "id": "38",
+        "title": "Новость № 38",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "39",
+        "title": "Новость № 39",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "40",
+        "title": "Новость № 40",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.2"
+      },
+      {
+        "id": "41",
+        "title": "Новость № 41",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.0"
+      },
+      {
+        "id": "42",
+        "title": "Новость № 42",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.4"
+      },
+      {
+        "id": "43",
+        "title": "Новость № 43",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "44",
+        "title": "Новость № 44",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.6"
+      },
+      {
+        "id": "45",
+        "title": "Новость № 45",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.1"
+      },
+      {
+        "id": "46",
+        "title": "Новость № 46",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "47",
+        "title": "Новость № 47",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.7"
+      },
+      {
+        "id": "48",
+        "title": "Новость № 48",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "2.7"
+      },
+      {
+        "id": "49",
+        "title": "Новость № 49",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.5"
+      },
+      {
+        "id": "50",
+        "title": "Новость № 50",
+        "photo": "https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "text": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.",
+        "rating": "4.4"
+      }
+    ]
+  }
+}
